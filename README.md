@@ -1,0 +1,1 @@
+This contains python notebooks based on examples in the book 'Python for Data Analysis' by Wes McKinney
